@@ -1,4 +1,4 @@
-import "../navbar.css"
+
 import LogoImage from "/images/logo.png"
 import NavIconImage from "/images/nav-icon.png"
 

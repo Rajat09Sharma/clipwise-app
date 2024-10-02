@@ -1,4 +1,4 @@
-import "../heroSection.css"
+
 import Navbar from "./Navbar"
 import ProductImage from "/images/product.png"
 import Vector1Image from "/images/vector1.png" 

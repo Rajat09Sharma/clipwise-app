@@ -1,4 +1,4 @@
-import "../product.css"
+
 import ProductButton from "./ProductButton"
 import ProductImage from "/images/product.png"
 

@@ -1,6 +1,6 @@
 import Product from "./Product";
 import ProductButton from "./ProductButton";
-import "../products.css"
+
 
 export default function Products() {
     return (

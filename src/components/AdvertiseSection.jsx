@@ -1,5 +1,5 @@
 import ProductButton from "./ProductButton"
-import "../advertise.css"
+
 import ProductImage from "/images/product.png"
 import Vector2Image from "/images/vector2.png"
 
