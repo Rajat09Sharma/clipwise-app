@@ -43,6 +43,10 @@ p span {
     color: #fff;
 }
 
+.navbar-brand:hover {
+    color: #fff;
+}
+
 .nav-brand-image {
     color: #fff;
 }
@@ -52,6 +56,11 @@ p span {
 }
 
 .nav-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+.nav-link:hover {
     color: #fff;
     font-weight: 500;
 }
