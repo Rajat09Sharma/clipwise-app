@@ -437,4 +437,9 @@ p span {
         font-size: 55px;
     }
 
+    #advertise button{
+        background-color: #fff;
+        color: #31546D;
+    }
+
 }
